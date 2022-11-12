@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/acerive_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/add_alert_24.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/balance_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/covid_daily_cases_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/deposit_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/notes_24.xml" value="0.1555" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_left_check.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_left_selector.xml" value="0.1485" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_left_uncheck.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_right_check.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_right_selector.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/radio_botton_right_uncheck.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/recovery_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/drawable/secious_shape.xml" value="0.1465" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Design_demo/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
